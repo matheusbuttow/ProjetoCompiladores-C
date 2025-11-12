@@ -50,12 +50,4 @@ Remove o executável e todos os objetos.
 3. Adicionar os novos objetos no `Makefile`.
 4. Escrever casos de teste simples usando asserts ou uma mini suíte.
 
-## Publicando no GitHub
-1. Execute `git init` dentro desta pasta.
-2. Adicione os arquivos: `git add .`.
-3. Faça o primeiro commit: `git commit -m "Initial commit"`.
-4. Crie um repositório vazio no GitHub.
-5. Adicione o remoto: `git remote add origin git@github.com:SEU_USUARIO/SEU_REPO.git`.
-6. Envie o código: `git push -u origin main` (ou `master`, conforme o padrão do seu repositório).
 
-Bons estudos! 🚀
