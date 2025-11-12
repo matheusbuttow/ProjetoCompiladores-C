@@ -1,6 +1,12 @@
-# Exemplo: Compilação Separada em C
+# 🧮 Calculadora Modular em C
 
-Pequena demonstração de como separar **protótipos** (`.h`) e **implementações** (`.c`) usando `make` para automatizar a compilação. Ideal para estudantes que estão migrando de exemplos monolíticos para projetos modulares em C.
+Projeto desenvolvido na disciplina **Compiladores**, pelos alunos **Matheus Buttow** e **Henrique Reichow**.
+
+O objetivo do trabalho é aplicar os conceitos de **modularização em linguagem C**, **separação entre protótipos e implementações** e **automação da compilação** utilizando um **Makefile**.  
+O projeto foi baseado no repositório de referência [ComilaSeparadoC](https://github.com/tioguerra/ComilaSeparadoC), e estendido com novas operações aritméticas.
+
+
+É uma pequena demonstração de como separar **protótipos** (`.h`) e **implementações** (`.c`) usando `make` para automatizar a compilação. Ideal para estudantes que estão migrando de exemplos monolíticos para projetos modulares em C.
 
 ## Pré-requisitos
 - Compilador C compatível com C11 (ex.: `gcc` ou `clang`)
@@ -59,3 +65,4 @@ Remove o executável e todos os objetos.
 6. Envie o código: `git push -u origin main` (ou `master`, conforme o padrão do seu repositório).
 
 Bons estudos! 🚀
+# ProjetoCompiladores-C
