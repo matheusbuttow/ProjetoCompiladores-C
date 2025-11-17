@@ -1,6 +1,6 @@
 # 🧮 Calculadora Modular em C
 
-Projeto desenvolvido na disciplina **Compiladores**, pelos alunos **Matheus Buttow** e **Henrique Reichow**.
+Projeto desenvolvido na disciplina **Compiladores**, pelos alunos **Matheus Buttow** e **Luis Henrique Kiekhofel Reichow**.
 
 O objetivo do trabalho é aplicar os conceitos de **modularização em linguagem C**, **separação entre protótipos e implementações** e **automação da compilação** utilizando um **Makefile**.  
 O projeto foi baseado no repositório de referência [ComilaSeparadoC](https://github.com/tioguerra/ComilaSeparadoC), e estendido com novas operações aritméticas.
