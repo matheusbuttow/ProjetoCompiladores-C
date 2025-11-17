@@ -18,6 +18,10 @@ O projeto foi baseado no repositório de referência [ComilaSeparadoC](https://g
 ├── main.c          # Programa principal
 ├── soma.c/.h       # Função soma
 ├── subtrai.c/.h    # Função subtrai
+├── multiplicacao.c/.h       # Função multiplicação
+├── divisao.c/.h       # Função divisão
+├── modulo.c/.h       # Função módulo
+├── potencia.c/.h       # Função potência
 ├── Makefile        # Regras de compilação
 ├── .gitignore      # Ignora artefatos de build
 └── README.md       # Guia do projeto
