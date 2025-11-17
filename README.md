@@ -54,15 +54,8 @@ Remove o executável e todos os objetos.
 - **Programa principal**: `main.c` inclui somente headers e coordena o fluxo chamando as funções de cada módulo.
 - **Makefile**: recompila apenas o necessário a cada alteração e oferece alvos utilitários (`run`, `clean`).
 
-## Próximos Passos Sugestões
-1. Criar novos módulos (ex.: `multiplica.c/.h`).
-2. Referenciar os novos headers em `main.c`.
-3. Adicionar os novos objetos no `Makefile`.
-4. Escrever casos de teste simples usando asserts ou uma mini suíte.
-
-
-<<<<<<< HEAD
-Bons estudos! 🚀
 # ProjetoCompiladores-C
 =======
->>>>>>> a47476d0bc6f3d418ac5e2e4b659fda4a950341c
+**Autores: Matheus Nunes Buttow e Luis Henrique K. Reichow**
+**Engenharia da Computação 27/2**
+**Disciplina de compiladores**
