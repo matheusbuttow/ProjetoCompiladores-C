@@ -57,5 +57,7 @@ Remove o executável e todos os objetos.
 # ProjetoCompiladores-C
 =======
 **Autores: Matheus Nunes Buttow e Luis Henrique K. Reichow**
+
 **Engenharia da Computação 27/2**
+
 **Disciplina de compiladores**
